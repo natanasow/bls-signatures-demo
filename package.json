@@ -1,0 +1,13 @@
+{
+  "name": "bls-signatures-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "natanasow",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.14",
+    "mcl-wasm": "^1.4.0"
+  }
+}
